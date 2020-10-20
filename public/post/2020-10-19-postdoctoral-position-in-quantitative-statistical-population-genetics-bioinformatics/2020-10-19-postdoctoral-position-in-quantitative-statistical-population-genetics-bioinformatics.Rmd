@@ -10,11 +10,13 @@ tags:
   - job
 description: ''
 keywords: []
-draft: yes
+draft: false
+toc: false
 ---
 **Working Title**	
 Post-Doctoral Research Associate
 Department	Agronomy & Horticulture-0827
+University of Nebraska - Lincoln, Nebraska, USA
 
 Requisition Number	F_190182
 
@@ -54,10 +56,11 @@ As an EO/AA employer, qualified applicants are considered for employment without
 Kay McClure-Kelly
 kmcclure-kelly2@unl.edu
 
-Job Category (old)	
+**Job Category**	
 Other Academic
 
 **Job Type**	
 Full-Time
-Position funded by grant or other form of temporary funding?	Yes
+Position funded by grant or other form of temporary funding?
+Yes
 	
