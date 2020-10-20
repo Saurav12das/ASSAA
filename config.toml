@@ -65,6 +65,12 @@ copyright = "©ASSAA {2020}"
   name = "post"
   title = "Post"
   url = "/post"
+ 
+ [[menu.main]]
+    identifier = "people"
+    name = "coffee"
+    title = "coffee"
+    url = "/coffee"
   
 ##Site Features
 highlight = true
