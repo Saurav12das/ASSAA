@@ -23,7 +23,7 @@ copyright = "©ASSAA {2020}"
   twitter = "https://twitter.com/Moutain_Soul"
   github = "https://github.com/Saurav12das"
   email = "mailto:<saurav12das@gmail.com>"
-  # facebook = "https://facebook.com/<your handle>"
+  facebook = "https://facebook.com/<saurav12das>"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
   # linkedin = "<link to your profile>"
@@ -32,7 +32,7 @@ copyright = "©ASSAA {2020}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub", "Email"]
+  iconOrder = ["Twitter", "GitHub", "Email", "Facebook"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
