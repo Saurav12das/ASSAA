@@ -7,14 +7,14 @@ categories: []
 tags: []
 description: ''
 keywords: []
-draft: no
+draft: 'no'
 math: no
 toc: no
 ---
 
 **Job Description:**
 
-Overview: The Karczewski Laboratory at the Broad Institute is seeking highly qualified postdoctoral candidates to perform genomics data science research across a spectrum of population genetics and disease association studies within the Stanley Center for Psychiatric Research and the Program in Medical and Population Genetics.
+Overview: **The Karczewski Laboratory** at the Broad Institute is seeking highly qualified postdoctoral candidates to perform genomics data science research across a spectrum of population genetics and disease association studies within the Stanley Center for Psychiatric Research and the Program in Medical and Population Genetics.
 
 Successful candidates are expected to excel at critical thinking, be quick learners for new analytical approaches, and capable of applying or developing novel computational methods for solving complex problems. Candidates must have a doctoral degree (PhD or MD), an excellent publication record, and great communication skills.
 
